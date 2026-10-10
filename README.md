@@ -3,7 +3,7 @@
   
   <h1>Olá, eu sou Luis Fernando 👋</h1>
   
-  <p>Estudante de Sistemas de Informação na UFGD · Desenvolvedor de software · Entusiasta de robótica e automação</p>
+  <p>Sistemas de Informação(UFGD) · Técnico em informática para internet(IFMS) · Desenvolvedor de software · Entusiasta de robótica, automação, segurança da informação e IA</p>
   
   <p>
     <a href="https://github.com/LF31luisCorrea"><img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
