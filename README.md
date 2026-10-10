@@ -50,10 +50,10 @@
 
 ## 🚀 Projetos em destaque
 
-### 🏥 Agenda de Pesquisa HU-UFGD / Indicadores
+### 🏥 HU-UFGD / Indicadores
 🔗 **[Acessar Repositório no GitHub](https://github.com/LF31luisCorrea/indicadores)**  
-Projeto de extensão voltado à análise de processos e ao desenvolvimento de propostas digitais para melhorar os fluxos de agendamento e atendimento no Hospital Universitário da UFGD.  
-**Foco:** análise de processos, identificação de problemas e soluções digitais.
+Projeto voltado à extração de planilhas para transformar em uma interface intuitiva com indicadores para o Hospital Universitário na área da pesquisa.  
+**Foco:** análise de planilhas, extração e interface.
 
 ---
 
@@ -72,8 +72,8 @@ Plataforma de trilhas de exercícios em Algoritmos e Estrutura de Dados com corr
 ---
 
 ### 🤖 Robótica UFGD
-🔒 *Projeto institucional / Código privado*  
-Equipe universitária criada para incentivar a robótica e participar de competições. Atuo na liderança da programação e no desenvolvimento de software para a equipe.  
+🔒 *Projeto institucional / Código ainda a ser commitado*  
+Equipe universitária criada para incentivar a robótica e participar de competições. Atuo na liderança da programação e no desenvolvimento de software para a equipe. Fundador e líder da parte do simulador 2D (competição da robocup).
 **Foco:** programação, testes, resolução de problemas e colaboração entre áreas técnicas.
 
 ---
