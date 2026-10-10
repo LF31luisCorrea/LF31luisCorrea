@@ -5,8 +5,8 @@
   
   <p>
     Sistemas de Informação (UFGD) · Técnico em Informática para Internet (IFMS)<br/>
-    Desenvolvedor de Software<br/>
-    Entusiasta de Robótica, Automação, Segurança da Informação e IA
+    Fundador e líder da programação da equipe de robótica da UFGD e Diretor de Recursos Humanos da Apuama Tech<br/>
+    
   </p>
   
   <p>
