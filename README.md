@@ -1,4 +1,4 @@
-# Olá, eu sou Luis Fernando 👋 {#olá-eu-sou-luis-fernando align="center"}
+# Olá, eu sou Luis Fernando 👋
 
 Estudante de Sistemas de Informação na UFGD · Desenvolvedor de software
 · Entusiasta de robótica e automação
@@ -72,8 +72,6 @@ andamento). - \*\*Técnico Integrado em Informática para Internet\*\* ---
 Instituto Federal de Mato Grosso do Sul (IFMS) · 2021--2023 (concluído).
 \## 🤝 Vamos nos conectar? Tenho interesse em colaborar em projetos de
 desenvolvimento de software, automação, dados e robótica. -
-\*\*LinkedIn:\*\* \[adicione seu perfil\](https://www.linkedin.com/) -
-\*\*E-mail:\*\* \[adicione seu e-mail\](mailto:SEU-EMAIL) \-\--
 
 *Aprendendo continuamente, construindo soluções e compartilhando
 conhecimento.*
