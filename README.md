@@ -3,7 +3,7 @@
 Estudante de Sistemas de Informação na UFGD · Desenvolvedor de software
 · Entusiasta de robótica e automação
 
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github)][(https://github.com/LF31luisCorrea)]
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github)](https://github.com/LF31luisCorrea)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luis-fernando-alves-corrêa-96214823a/)
 [![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisfernando11092005@gmail.xom)
 
