@@ -1,13 +1,16 @@
-# Olá, eu sou Luis Fernando 👋
-
-Estudante de Sistemas de Informação na UFGD · Desenvolvedor de software · Entusiasta de robótica e automação
-
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github)](https://github.com/LF31luisCorrea)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luis-fernando-alves-corrêa-96214823a/)
-[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisfernando11092005@gmail.com)
-
----
-
+<div align="center">
+  <img src="https://github.com/LF31luisCorrea.png" width="150px" style="border-radius: 50%;" alt="Foto de Luis Fernando"/>
+  
+  <h1>Olá, eu sou Luis Fernando 👋</h1>
+  
+  <p>Estudante de Sistemas de Informação na UFGD · Desenvolvedor de software · Entusiasta de robótica e automação</p>
+  
+  <p>
+    <a href="https://github.com/LF31luisCorrea"><img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+    <a href="https://www.linkedin.com/in/luis-fernando-alves-corrêa-96214823a/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+    <a href="mailto:luisfernando11092005@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  </p>
+</div>
 ## 👨‍💻 Sobre mim
 
 - 🎓 Graduando em **Sistemas de Informação na UFGD** e Técnico em Informática para Internet pelo IFMS.
