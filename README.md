@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/LF31luisCorrea.png" width="300px" style="border-radius: 50%;" alt="Foto de Luis Fernando"/>
+  <img src="https://github.com/LF31luisCorrea.png" width="250px" style="border-radius: 50%;" alt="Foto de Luis Fernando"/>
   
   <h1>Olá, eu sou Luis Fernando 👋</h1>
   
