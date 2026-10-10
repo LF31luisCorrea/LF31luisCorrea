@@ -1,9 +1,13 @@
 <div align="center">
-  <img src="https://github.com/LF31luisCorrea.png" width="250px" style="border-radius: 50%;" alt="Foto de Luis Fernando"/>
+  <img src="https://github.com/LF31luisCorrea.png" width="150px" style="border-radius: 50%;" alt="Foto de Luis Fernando"/>
   
   <h1>Olá, eu sou Luis Fernando 👋</h1>
   
-  <p>Sistemas de Informação(UFGD) · Técnico em informática para internet(IFMS) · Desenvolvedor de software · Entusiasta de robótica, automação, segurança da informação e IA</p>
+  <p>
+    Sistemas de Informação (UFGD) · Técnico em Informática para Internet (IFMS)<br/>
+    Desenvolvedor de Software<br/>
+    Entusiasta de Robótica, Automação, Segurança da Informação e IA
+  </p>
   
   <p>
     <a href="https://github.com/LF31luisCorrea"><img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
@@ -11,6 +15,8 @@
     <a href="mailto:luisfernando11092005@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
 </div>
+
+---
 ## 👨‍💻 Sobre mim
 
 - 🎓 Graduando em **Sistemas de Informação na UFGD** e Técnico em Informática para Internet pelo IFMS.
