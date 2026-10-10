@@ -1,16 +1,79 @@
-## Hi there 👋
+# Olá, eu sou Luis Fernando 👋 {#olá-eu-sou-luis-fernando align="center"}
 
-<!--
-**LF31luisCorrea/LF31luisCorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Sistemas de Informação na UFGD · Desenvolvedor de software
+· Entusiasta de robótica e automação
 
-Here are some ideas to get you started:
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github)](https://github.com/SEU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/SEU-LINKEDIN/)
+[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+\-\-- \## 👨‍💻 Sobre mim - 🎓 Graduando em \*\*Sistemas de Informação na
+UFGD\*\* e Técnico em Informática para Internet pelo IFMS. - 💻 Tenho
+interesse em \*\*desenvolvimento web, automação de processos, análise de
+dados e infraestrutura de TI\*\*. - 🤖 Fundador e líder de programação
+de uma equipe universitária de robótica, com foco em competições como a
+RoboCup. - 🏥 Participo de projeto de extensão voltado à análise de
+processos e à elaboração de soluções digitais para fluxos de agendamento
+e atendimento hospitalar. - 📊 Tenho experiência acadêmica com
+ferramentas e relatórios automatizados e desenvolvi um sistema web para
+um negócio local. - 🌱 Estou sempre buscando aprender, colaborar e
+transformar problemas reais em soluções tecnológicas. \## 🛠️ Tecnologias
+e ferramentas \### Desenvolvimento
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![AdonisJS](https://img.shields.io/badge/AdonisJS-5A45FF?style=flat-square&logo=adonisjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=222)
+
+\### Dados e ferramentas
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power
+BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=222)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=222)
+![Redes
+TCP/IP](https://img.shields.io/badge/Redes-TCP%2FIP-4267B2?style=flat-square)
+
+\> As tecnologias representam ferramentas com as quais estudo ou já tive
+contato em diferentes níveis. Consulte os projetos para ver exemplos
+concretos de aplicação. \## 🚀 Projetos em destaque \### 🏥 Agenda de
+Pesquisa HU-UFGD Projeto de extensão voltado à análise de processos e ao
+desenvolvimento de propostas digitais para melhorar os fluxos de
+agendamento e atendimento no Hospital Universitário da UFGD.
+\*\*Foco:\*\* análise de processos, identificação de problemas e
+soluções digitais. \### 🤖 Robótica UFGD Equipe universitária criada
+para incentivar a robótica e participar de competições. Atuo na
+liderança da programação e no desenvolvimento de software para a equipe.
+\*\*Foco:\*\* programação, testes, resolução de problemas e colaboração
+entre áreas técnicas. \### 📈 Trajeto Algoritmos Projeto de sistema para
+acompanhar dados de atividades de programação, identificar dificuldades
+dos estudantes e apoiar o acompanhamento docente. \*\*Foco:\*\*
+desenvolvimento web, tratamento de dados e automação de análises. \###
+🍔 Sistema de gestão para a Livia Lanches Sistema web desenvolvido com
+PHP, Laravel e Blade, com funcionalidades de gerenciamento de estoque,
+acompanhamento de pedidos e indicadores de vendas. \*\*Foco:\*\*
+desenvolvimento web e digitalização de processos de um negócio real.
+\### 🧩 Pensamento Computacional com Scratch Projeto de extensão para
+ensinar pensamento computacional a estudantes por meio de atividades e
+oficinas com Scratch. \*\*Foco:\*\* lógica de programação, educação e
+comunicação de conceitos técnicos. \> Adicione o link de cada
+repositório ao título do projeto quando o código ou a documentação
+estiverem publicados. Para projetos institucionais ou privados, use uma
+descrição pública sem divulgar informações confidenciais. \## 📚
+Formação - \*\*Bacharelado em Sistemas de Informação\*\* ---
+Universidade Federal da Grande Dourados (UFGD) · 2024--2027 (em
+andamento). - \*\*Técnico Integrado em Informática para Internet\*\* ---
+Instituto Federal de Mato Grosso do Sul (IFMS) · 2021--2023 (concluído).
+\## 🤝 Vamos nos conectar? Tenho interesse em colaborar em projetos de
+desenvolvimento de software, automação, dados e robótica. -
+\*\*LinkedIn:\*\* \[adicione seu perfil\](https://www.linkedin.com/) -
+\*\*E-mail:\*\* \[adicione seu e-mail\](mailto:SEU-EMAIL) \-\--
+
+*Aprendendo continuamente, construindo soluções e compartilhando
+conhecimento.*
